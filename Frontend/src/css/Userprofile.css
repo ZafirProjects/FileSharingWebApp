@@ -1,0 +1,12 @@
+
+
+.imagee {
+  background: rgba(252, 252, 252, 0.555);
+  font-size: 16px;
+  color: rgb(57, 57, 207);
+  outline: none;
+  display: block;
+  margin-left: 35%;
+  margin-right: 60%;
+  margin-top: 50px;
+}
